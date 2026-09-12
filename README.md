@@ -1,11 +1,30 @@
 # DevFlow
 
-DevFlow is a professional task management platform designed
-for software development teams.
+DevFlow is a professional engineering workflow platform designed
+to help software development teams organize projects, tasks,
+collaboration and releases.
 
-## Goals
+## Objectives
 
-- Manage development tasks
-- Track task status
+- Manage development projects
+- Track engineering tasks
 - Organize team workflows
-- Practice professional Git workflows
+- Track releases
+- Practice professional software engineering workflows
+
+## Engineering Goals
+
+This project is also used to demonstrate:
+
+- Git
+- GitHub
+- Branching strategies
+- Pull Requests
+- Code review
+- CI/CD
+- Semantic versioning
+- Professional documentation
+
+## Status
+
+🚧 In development
