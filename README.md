@@ -28,3 +28,8 @@ This project is also used to demonstrate:
 ## Status
 
 🚧 In development
+
+## Development
+
+The project follows a professional Git workflow based on
+feature branches, Pull Requests and continuous integration.
