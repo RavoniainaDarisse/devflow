@@ -27,3 +27,4 @@ release/*
    |
    v
 main
+Remote synchronization test
