@@ -53,6 +53,10 @@ git switch -c feature/deployment-docs
 
 ### 3. Make the required changes
 
+```bash
+git diff
+git status
+```
 Update the project files and verify the changes locally.
 
 ### 4. Commit the changes
