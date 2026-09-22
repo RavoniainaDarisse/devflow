@@ -13,6 +13,23 @@ Use the following naming conventions:
 
 Use clear and descriptive commit messages.
 
+Allowed commit types:
+
+- `feat` — new feature
+- `fix` — bug fix
+- `docs` — documentation
+- `refactor` — code restructuring
+- `test` — tests
+- `chore` — maintenance
+
+Format:
+
+<type>: <short description>
+
+## Commit Messages
+
+Use clear and descriptive commit messages.
+
 Format:
 
 <type>: <short description>
